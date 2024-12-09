@@ -1,6 +1,6 @@
 # Shopping List
 - Live link https://chrpkorir.github.io/ShoppingList/
-A simple interractive shopping list web application that allows user to add items, remove items , mark as purchased and Clear the whole list
+- A simple interractive shopping list web application that allows user to add items, remove items , mark as purchased and Clear the whole list
 
 ## Features
 - **Add**: A user can add items to the shopping list.
